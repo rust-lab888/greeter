@@ -1,0 +1,5 @@
+lang: rust
+spec:
+- location: locale
+  codefile:
+    - name: japanese

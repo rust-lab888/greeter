@@ -5,3 +5,10 @@ version = 3
 [[package]]
 name = "greeter"
 version = "0.1.0"
+dependencies = [
+ "japanese",
+]
+
+[[package]]
+name = "japanese"
+version = "0.1.0"
